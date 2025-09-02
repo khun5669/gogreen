@@ -33,7 +33,7 @@ const categories = [
     { name: 'Metall', thaiName: 'โลหะ', icon: SpecialDrinkIcon, color: 'bg-neutral-400' },
 ];
 
-// --- Components ---
+// --- Compone
 
 // ===== [START] NEW TOAST COMPONENT =====
 const Toast = ({ message }) => {
